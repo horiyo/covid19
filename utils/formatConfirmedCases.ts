@@ -11,7 +11,7 @@ type DataType = {
           value: number
         },
         {
-          attr: 'ホテル宿泊'
+          attr: '宿泊施設療養'
           value: number
         },
         {
@@ -35,7 +35,7 @@ type ConfirmedCasesType = {
   検査実施人数: number
   陽性物数: number
   入院中: number
-  ホテル宿泊: number
+  宿泊施設療養: number
   退院: number
   死亡: number
   県外: number
@@ -50,7 +50,7 @@ export default (data: DataType) => {
   const formattedData: ConfirmedCasesType = {
     検査実施人数: data.value,
     陽性物数: data.children[0].value,
-    入院中: data.children[0].children[0].value,
+    宿泊施設療養: data.children[0].children[0].value,
     ホテル宿泊: data.children[0].children[1].value,
     退院: data.children[0].children[2].value,
     死亡: data.children[0].children[3].value,
