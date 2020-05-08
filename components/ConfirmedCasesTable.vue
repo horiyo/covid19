@@ -41,9 +41,9 @@
         <li class="item hotel">
           <div class="gutter">
             <div class="box">
-              <span>{{ $t('ホテル宿泊') }}</span>
+              <span>{{ $t('宿泊施設療養') }}</span>
               <span>
-                <b>{{ ホテル宿泊 }}</b>
+                <b>{{ 宿泊施設療養 }}</b>
                 <span class="unit">{{ $t('人') }}</span>
               </span>
             </div>
@@ -97,7 +97,7 @@ export default {
     '検査実施人数',
     '陽性物数',
     '入院中',
-    'ホテル宿泊',
+    '宿泊施設療養',
     '死亡',
     '退院',
     '県外'
@@ -221,7 +221,7 @@ export default {
   width: calc(100% / 5);
 }
 
-// ホテル宿泊者
+// 宿泊施設療養
 .item.hotel {
   width: calc(100% / 5);
 }
