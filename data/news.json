@@ -1,6 +1,16 @@
 {
     "newsItems": [
         {
+            "date": "2020\/05\/0",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
+            "text": "佐賀県の新型コロナウイルス感染症の状況"
+        },
+        {
+            "date": "2020\/05\/09",
+            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374238\/index.html",
+            "text": "第22回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
+        },
+        {
             "date": "2020\/05\/08",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374225\/index.html",
             "text": "佐賀型チャレンジ事業者持続化支援金について"
@@ -19,16 +29,6 @@
             "date": "2020\/05\/08",
             "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374233\/index.html",
             "text": "【令和2年5月8日更新】『佐賀型 店舗休業支援金』（5月7日始期：接待を伴う飲食店等）について"
-        },
-        {
-            "date": "2020\/05\/08",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00374238\/index.html",
-            "text": "第22回佐賀県新型コロナウィルス感染症対策本部会議を開催しました"
-        },
-        {
-            "date": "2020\/05\/08",
-            "url": "https:\/\/www.pref.saga.lg.jp\/kiji00373220\/index.html",
-            "text": "佐賀県の新型コロナウイルス感染症の状況"
         },
         {
             "date": "2020\/05\/08",
